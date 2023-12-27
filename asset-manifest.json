@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.adb4ce27.chunk.css",
+    "main.js": "./static/js/main.1cb67812.chunk.js",
+    "main.js.map": "./static/js/main.1cb67812.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/js/2.d6954f56.chunk.js": "./static/js/2.d6954f56.chunk.js",
+    "static/js/2.d6954f56.chunk.js.map": "./static/js/2.d6954f56.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.adb4ce27.chunk.css.map": "./static/css/main.adb4ce27.chunk.css.map",
+    "static/js/2.d6954f56.chunk.js.LICENSE.txt": "./static/js/2.d6954f56.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "./static/media/icon-heart.303d8ade.svg",
+    "static/media/BannersSlider.scss": "./static/media/banner-tablets.a962057c.png",
+    "static/media/Breadcrumbs.scss": "./static/media/home-crumb.aa940014.svg",
+    "static/media/CartItem.scss": "./static/media/plus.60b4bc00.svg",
+    "static/media/Select.scss": "./static/media/dropdown.6a1c94bb.svg",
+    "static/media/Header.scss": "./static/media/search.1e77bbf1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330dba63.js",
+    "static/js/2.d6954f56.chunk.js",
+    "static/css/main.adb4ce27.chunk.css",
+    "static/js/main.1cb67812.chunk.js"
+  ]
+}
