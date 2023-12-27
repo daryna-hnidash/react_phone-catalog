@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.adb4ce27.chunk.css",
+    "main.css": "./static/css/main.86d8c287.chunk.css",
     "main.js": "./static/js/main.bd655a6d.chunk.js",
     "main.js.map": "./static/js/main.bd655a6d.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
@@ -8,7 +8,7 @@
     "static/js/2.d6954f56.chunk.js": "./static/js/2.d6954f56.chunk.js",
     "static/js/2.d6954f56.chunk.js.map": "./static/js/2.d6954f56.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.adb4ce27.chunk.css.map": "./static/css/main.adb4ce27.chunk.css.map",
+    "static/css/main.86d8c287.chunk.css.map": "./static/css/main.86d8c287.chunk.css.map",
     "static/js/2.d6954f56.chunk.js.LICENSE.txt": "./static/js/2.d6954f56.chunk.js.LICENSE.txt",
     "static/media/index.scss": "./static/media/icon-heart.303d8ade.svg",
     "static/media/BannersSlider.scss": "./static/media/banner-tablets.a962057c.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.d6954f56.chunk.js",
-    "static/css/main.adb4ce27.chunk.css",
+    "static/css/main.86d8c287.chunk.css",
     "static/js/main.bd655a6d.chunk.js"
   ]
 }
